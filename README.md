@@ -1,7 +1,12 @@
 # C Language: 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png "C Logo")
-### Simple Programs in C
 
+
+
+###### To ```clone``` this repository use command ```$ git clone https://github.com/iRawNewton/C.git```
+
+---
+### Simple Programs in C
 ---
 
 Program Question list
